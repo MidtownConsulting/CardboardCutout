@@ -1,3 +1,6 @@
-#Cardboard Cutout
+# Cardboard Cutout
 ### status tools for remote workers
-![LOOK OVER THERE](ok.jpg)
+
+<p align="center">
+  <img src="ok.jpg"/>
+</p>
